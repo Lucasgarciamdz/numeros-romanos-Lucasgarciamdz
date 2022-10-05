@@ -20,7 +20,3 @@ def convert_roman_to_decimal(roman_number):
         else:
             decimal_number += roman_to_decimal[roman_number[i]]
     return decimal_number
-
-
-if __name__ == '__main__':
-    unittest.main()
