@@ -1,2 +1,2 @@
 coverage==5.5
-parametrized==0.7.3
+parametrized==0.8.1
